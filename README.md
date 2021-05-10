@@ -1,2 +1,3 @@
 # Titanic Machine Learning from disaster
- Predict who is likly to have survived in the titanic crash given his/her information
+ Predict who is likely to have survived in the titanic crash given his/her information
+- See problem at [Kaggle.com](https://www.kaggle.com/c/titanic/overview)
